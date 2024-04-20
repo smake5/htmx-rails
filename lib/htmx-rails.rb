@@ -6,6 +6,8 @@ require 'rails/generators'
 
 # Files
 require 'generators/htmx/install_generator'
+
+require 'htmx/rails/engine'
 require 'htmx/rails/version'
 
 module Htmx
